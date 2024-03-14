@@ -12,4 +12,4 @@
 > # 作業連結區 #
 >
 > **HW1** :
-> [Spotify Top 100 Songs of 2010-2019]([http://example.net/](https://github.com/marcelinechang/PL-Repo./blob/main/HW1/HW1_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)https://github.com/marcelinechang/PL-Repo./blob/main/HW1/HW1_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)
+> [Spotify Top 100 Songs of 2010-2019](https://github.com/marcelinechang/PL-Repo./blob/main/HW1/HW1_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)
