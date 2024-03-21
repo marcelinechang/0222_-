@@ -12,7 +12,8 @@
  # 課程筆記區 #
  
  **Week4 Practice**:
- [JSON_Practice](https://github.com/marcelinechang/PL-Repo./blob/main/Week4/Week4_JSON_Practice.ipynb)
+ [JSON_Practice](https://github.com/marcelinechang/PL-Repo./blob/main/Week4/Week4_JSON_Practice.ipynb)   
+ 
  **Week5 Practice**:
  [RegularExpression](https://github.com/marcelinechang/PL-Repo./blob/main/Week5/Week5_RegularExpression_Practice.ipynb)
 
