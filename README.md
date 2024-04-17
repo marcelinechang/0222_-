@@ -23,4 +23,7 @@
 [Spotify Top 100 Songs of 2010-2019](https://github.com/marcelinechang/PL-Repo./blob/main/HW1/HW1_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)    
 
  **HW2** :
-[Pet Store Records 2020](https://github.com/marcelinechang/PL-Repo./blob/main/HW2/HW2_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)
+[Pet Store Records 2020](https://github.com/marcelinechang/PL-Repo./blob/main/HW2/HW2_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)   
+
+ **HW3** :
+ [Web Crawler_Top 100 Sales of Books.com](https://github.com/marcelinechang/PL-Repo./blob/main/HW3/HW3_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)
