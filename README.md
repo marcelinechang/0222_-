@@ -27,4 +27,8 @@
 
  **HW3** :
  [Web Crawler_Top 100 Sales of Books.com](https://github.com/marcelinechang/PL-Repo./tree/main/HW3)；
- [程式碼解說影片](https://youtu.be/0jCilIHBKaA)
+ [程式碼解說影片](https://youtu.be/0jCilIHBKaA)     
+
+ **HW4** :
+ [Top 100 Sales of Foreign Books in 7 Days with Gradio](https://github.com/marcelinechang/PL-Repo./blob/main/HW4/HW4_%E5%BC%B5%E6%87%B7%E6%85%88.ipynb)
+
