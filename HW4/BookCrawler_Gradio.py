@@ -185,7 +185,7 @@ class BookTopSalesCrawler:
             btn.click(fn=self.process_choices, inputs=[radio1, radio2], outputs=output)
 
             
-        demo.launch(debug=True)
+        demo.launch(share=True, debug=True)
 
     
     
